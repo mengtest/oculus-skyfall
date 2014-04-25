@@ -1,0 +1,23 @@
+Controls - Keyboard
+
+Movement:    			WASD keys
+Turn Left:   			Q
+Turn Right:  			E
+Activate glider/parachute: 	F
+Jump:        			Space
+Reset game:  			R
+Switch glide item:		Tab
+
+
+Controls - Xbox 360 Controller
+The controls have been mapped for the 'Tattie Bogle' OSX driver for Xbox 360 controllers. On Windows / Linux they will probably have to be remapped.
+
+Movement:	  	    	Left Stick
+Turn Left/Right:  	    	Right Stick
+Jump:				A
+Activate glider/parachute: 	B
+Reset Game:			BACK
+Switch glide item: 		RT / LT
+
+
+
